@@ -1,0 +1,29 @@
+body{
+border:8px solid;
+margin-top:15px;
+nargin-left:15px;
+margin-right:15px;
+border-color:pink;
+background:#00FFFF;
+color:#000000;}
+
+p{
+				margin-right:20px;
+     margin-left:20px;
+     text-align:justify;
+     font-size:25px;
+
+ }
+ img{
+ 				
+ 				border-style:solid double;
+ 				border-top:dashed;
+ 				border-width:7px;
+ 				border-color: #00FA9A;
+ 				border-radius:20px;
+ 				float: rigth;
+ }
+
+h1{
+				text-align: center;
+}
